@@ -1,2 +1,3 @@
 # http_server
-Python ipv4/6 simple server
+
+Simple localhost HTTP server using two threads to IPv4 and IPv6
